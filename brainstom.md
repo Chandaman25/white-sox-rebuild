@@ -19,4 +19,6 @@
   - Hitting (OPS, Homers, etc)
   - Pitching (ERA+, FIP, IP, Ks, BBs)
   - WAR
-- 
+- Payroll
+  - League Payrolls
+  - White Sox Team Payroll
